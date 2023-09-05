@@ -1,7 +1,6 @@
 # shopping-cart clientside code
-[Live site link](https://comforting-kulfi-868024.netlify.app/)
+-[Live site link](https://comforting-kulfi-868024.netlify.app/)
 
-eg. [click here](www.google.com)
 
 Currently, two official plugins are available:
 
