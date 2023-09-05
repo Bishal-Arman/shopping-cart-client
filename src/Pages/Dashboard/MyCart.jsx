@@ -41,8 +41,14 @@ const MyCart = () => {
         <title>Shopping-Cart | MyCart</title>
       </Helmet>
       <div className="flex flex-col justify-center items-center h-[60px] sm:flex-row sm:justify-between sm:items-center">
-        <h3>Total Product: {cart?.length}</h3>
-        <h3>Total Price: ${total}</h3>
+        <h3 className="text-xl ">
+          Total Product:{" "}
+          <span className="text-red-500 font-semibold">{cart?.length}</span>
+        </h3>
+        <h3 className="text-xl ">
+          Total Price:{" "}
+          <span className="text-red-500 font-semibold">${total}</span>
+        </h3>
       </div>
       <div className="max-w-screen-md mx-auto">
         <table className="table">
