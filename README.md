@@ -1,6 +1,7 @@
 # shopping-cart 
--[Live site link](https://comforting-kulfi-868024.netlify.app/)
--[Server site link](https://shopping-cart-server-topaz.vercel.app/)
+[Live site link](https://comforting-kulfi-868024.netlify.app/)
+
+[Server site link](https://shopping-cart-server-topaz.vercel.app/)
 
 
 ## Detailing the application's features:
