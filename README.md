@@ -14,6 +14,6 @@
 * React Router
 * sweetalert2
 * TanStack Query for state management
-### CSS framework
+####  CSS framework
 * Tailwind CSS
 * daisyui - plugin for Tailwind CSS
