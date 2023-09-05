@@ -12,8 +12,8 @@
 ## Technologies used
 * React js+ Vite
 * React Router
-* sweetalert2
 * TanStack Query for state management
+* sweetalert2
 ####  CSS framework
 * Tailwind CSS
 * daisyui - plugin for Tailwind CSS
