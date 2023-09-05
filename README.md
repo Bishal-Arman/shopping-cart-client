@@ -16,6 +16,14 @@
 * React Router
 * TanStack Query for state management
 * sweetalert2
-####  CSS framework
+#### Backend and database
+* Node js
+* Express js
+* MongoDB for database
+
+#### CSS framework
 * Tailwind CSS
 * daisyui - plugin for Tailwind CSS
+
+### Deployment
+* Netlify
