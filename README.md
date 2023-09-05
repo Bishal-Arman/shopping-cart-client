@@ -1,5 +1,7 @@
-# shopping-cart
--This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# shopping-cart clientside code
+[Live site link](https://comforting-kulfi-868024.netlify.app/)
+
+eg. [click here](www.google.com)
 
 Currently, two official plugins are available:
 
