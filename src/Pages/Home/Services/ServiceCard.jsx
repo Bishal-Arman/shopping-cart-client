@@ -12,7 +12,7 @@ const ServiceCard = ({ service }) => {
       price,
       service_id: _id,
     };
-    fetch("https://shopping-cart-server-topaz.vercel.app/carts", {
+    fetch("https://shopping-cart-server-khaki.vercel.app/carts", {
       method: "POST",
       headers: {
         "content-type": "application/json",
